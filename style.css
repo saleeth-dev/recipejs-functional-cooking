@@ -60,3 +60,6 @@ header {
   border-radius: 6px;
   cursor: pointer;
 }
+.hidden {
+  display: none;
+}
